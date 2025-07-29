@@ -8,7 +8,7 @@
 
 🔹 I am actively looking for an Internship in Ireland or remote (2025/2026)
 
-🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **React**, **Node.js**, **MongoDB**, **Python**, **TailwindCSS**, **Java**, **Python** and more.
+🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **React**, **Node.js**, **MongoDB**, **Python**, **HTML**, **CSS/Tailwind**, **Java**, **Python**, **C++** and more.
 
 🔹 I regularly build personal projects and post them on GitHub, these include web apps, tools, and data-driven systems.
 
