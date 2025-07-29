@@ -6,7 +6,7 @@
 
 ## 💼 About Me
 
-🔹 Actively looking for an Internship in Ireland or remote (2025/2026)
+🔹 I am actively looking for an Internship in Ireland or remote (2025/2026)
 
 🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **React**, **Node.js**, **MongoDB**, **Java**, **Python**, **HTML**, **CSS/Tailwind**, **Java**, **Python**, **C++** and more.
 
@@ -53,7 +53,7 @@
 
 ---
 
-> "Talk is Cheap. Show me the code" – Linus Torvald
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 
 <!--
