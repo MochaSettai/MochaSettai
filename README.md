@@ -16,11 +16,11 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 💬 Building an Employee Management App with data encryption, authentication and file uploading using bcrypt, JWT and multer.
+- 💾 Building a production ready Subscription Management API for users  
   
-- 🎵 A full-stack music streaming app (React + Node.js + MySQL)
+- 💬 Building an Game stat and Leaderboard service system for game servers(also part of another team project).
 
-- 🧩 Developing a vulnerable **MCP server** with FastMCP and securing it against prompt injections
+- 🧩 Developing a vulnerable **MCP server** with FastMCP to secure it against prompt injections
 
 ---
 
