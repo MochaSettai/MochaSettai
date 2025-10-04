@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Surya Kiran
 
-🎓 I'm a second-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering. I'm passionate about software development and building impactful solutions using modern technologies. My learning is driven by curiosity, hands-on practice, and the desire to create meaningful tech.
+🎓 I'm a third-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering. I'm passionate about software development and building impactful solutions using modern technologies. My learning is driven by curiosity, hands-on practice, and the desire to create meaningful tech.
 
 ---
 
@@ -8,7 +8,7 @@
 
 🔹 I am actively looking for an Internship in Ireland or remote (2025/2026)
 
-🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **React**, **Node.js**, **MongoDB**, **Python**, **HTML**, **CSS/Tailwind**, **Java**, **Python**, **C++** and more.
+🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **Java**, **Python**, **C++**, **Tailwind**, **React**, **Node.js**, **MongoDB** and more.
 
 🔹 I regularly build personal projects and post them on GitHub, these include web apps, tools, and data-driven systems.
 
