@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Surya Kiran
 
-🎓 I'm a third-year Computer Science student at Maynooth University, pursuing a B.Sc. in Computer Science and Software Engineering. I'm passionate about software development and building impactful solutions using modern technologies. My learning is driven by curiosity, hands-on practice, and the desire to create meaningful tech.
+🎓 I'm a third-year Computer Science student at Maynooth University, pursuing a B.Sc. (hons) in Computer Science & Software Engineering. I'm passionate about software development and building impactful solutions using modern technologies. My learning is driven by curiosity, hands-on practice, and the desire to create meaningful tech.
 
 ---
 
