@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Surya Kiran
 
-🎓 I'm a third-year student at Maynooth University, pursuing a B.Sc. Computer Science & Software Engineering (Lvl 8). I've been learning software development for about 5 years and I spend most of my time recently learning TypeScript, music and cooking. My learning is driven by curiosity, hands-on practice, and the desire to create meaningful tech.
+🎓 I'm a third-year student at Maynooth University, pursuing a B.Sc. Computer Science & Software Engineering (Lvl 8). I've been learning software development for about 5 years and I spend most of my time recently learning web-apps, music and cooking. My learning is driven by curiosity, hands-on practice, and the desire to create meaningful tech.
 
 ---
 
