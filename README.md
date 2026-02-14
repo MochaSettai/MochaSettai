@@ -16,9 +16,9 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 💾 Building a production ready Subscription Management API for users  
+- 💾 Building an AI-powered Applicant tracking system
   
-- 💬 Building an Game stat and Leaderboard service system for game servers(also part of another team project).
+- 💬 Building an Game stat and Leaderboard service system for game servers(it's a team project).
 
 - 🧩 Developing a vulnerable **MCP server** with FastMCP to secure it against prompt injections
 
@@ -27,7 +27,7 @@
 ## 🧠 Skills & Tools
 
 **Languages & Frameworks**  
-`Java` | `Python` | `C++` | `JavaScript` | `HTML/CSS` | `Node.js` | `Express` | `React` | `TailwindCSS` | `PHP`
+`Java` | `Python` | `C++` | `JavaScript` | `TypeScript` | `HTML/CSS` | `Node.js` | `Express` | `React` | `TailwindCSS` | `PHP`
 
 **Databases**  
 `MySQL` | `MongoDB` | `PostgreSQL`
@@ -37,12 +37,12 @@
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 
-- 🔧 Master **JavaScript** and **Python**
+- 🔧 Master **TypeScript** and **Express**
 - ☁️ Learn to build and manage **Docker** containers
 - 🧩 Contribute to **open-source projects** and collaborate with other developers
-- 💼 Secure a summer internship in **software engineering**
+- 💼 Secure a full time internship in **software engineering**
 
 ---
 
