@@ -8,9 +8,11 @@
 
 🔹 I am actively looking for an Internship in Ireland or remote (2025/2026)
 
-🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **Java**, **Python**, **C++**, **Tailwind**, **React**, **Node.js**, **MongoDB** and more.
+🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **Java**, **Python**, **C++**, **Tailwind**, **React**, **Node.js**, **MongoDB** and many more.
 
-🔹 I regularly build personal projects and post them on GitHub, these include web apps, tools, and data-driven systems.
+🔹 My skils are grounded in Java and JavaScript, mainly focused on web-apps but I'm someone who's open to learning and exploring more posibilities.
+
+🔹 I regularly build personal projects and post them on GitHub. These include api-tools, data-driven systems, and some fun projects.
 
 ---
 
@@ -18,7 +20,7 @@
 
 - 💾 Building an AI-powered Applicant tracking system
   
-- 💬 Building an Game stat and Leaderboard service system for game servers(it's a team project).
+- 💬 Building a real time Game Stats and Leaderboard service system for game servers (it's a team project).
 
 - 🧩 Developing a vulnerable **MCP server** with FastMCP to secure it against prompt injections
 
