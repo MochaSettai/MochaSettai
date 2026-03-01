@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Surya Kiran
 
-🎓 I'm a third-year student at Maynooth University, pursuing a B.Sc. Computer Science & Software Engineering (Lvl 8). I've been learning software development for about 5 years. Recently I've started as an intern at the IT Department of Maynooth University working on web app mordernisations while also training as a Product Manager.
+🎓 I'm a third-year student at Maynooth University, pursuing a B.Sc. Computer Science & Software Engineering (Lvl 8). I've been learning software development for about 5 years. Recently I've started as an intern at the IT Department of Maynooth University working on web app mordernisations while also training as a Product Owner.
 
 ---
 
