@@ -6,9 +6,11 @@
 
 ## 💼 About Me
 
-🔹 I am actively looking for an Internship in Ireland or remote (2025/2026)
+🔹 The languages I use are **JavaScript**, **Java** and **Python**.
 
-🔹 I’ve honed my skills in languages and frameworks such as **JavaScript**, **Java**, **Python**, **C++**, **Tailwind**, **React**, **Node.js**, **MongoDB** and many more.
+🔹 The frontend frameworks I use are **React** and **Tailwind**.
+
+🔹 The backend frameworks I use are **Express**, **Node.js** and **Flask**.
 
 🔹 My skils are grounded in Java and JavaScript, mainly focused on web-apps but I'm someone who's open to learning and exploring more posibilities.
 
@@ -29,22 +31,20 @@
 ## 🧠 Skills & Tools
 
 **Languages & Frameworks**  
-`Java` | `Python` | `C++` | `JavaScript` | `TypeScript` | `HTML/CSS` | `Node.js` | `Express` | `React` | `TailwindCSS` | `PHP`
+`Java` | `Python` | `C++` | `JavaScript` | `TypeScript` | `Node.js` | `Express` | `React` | `TailwindCSS` | `Flask` | `PHP`
 
 **Databases**  
-`MySQL` | `MongoDB` | `PostgreSQL`
+`MySQL` | `MongoDB` | `PostgreSQL` | `Firebase`
 
 **Tools & Platforms**  
-`Git` | `GitHub` | `Docker` | `Linux` | `VS Code` | `Postman` | `Insomnia` | `Replit`
+`Git` | `GitHub` | `Docker` | `Linux` 
 
 ---
 
 ## 🎯 Goals for 2026
 
 - 🔧 Master **TypeScript** and **Express**
-- ☁️ Learn to build and manage **Docker** containers
 - 🧩 Contribute to **open-source projects** and collaborate with other developers
-- 💼 Secure a full time internship in **software engineering**
 
 ---
 
