@@ -24,8 +24,6 @@
   
 - 💬 Building a real time Game Stats and Leaderboard service system for game servers (it's a team project).
 
-- 🧩 Developing a vulnerable **MCP server** with FastMCP to secure it against prompt injections
-
 ---
 
 ## 🧠 Skills & Tools
@@ -51,4 +49,3 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sk-ts/)  
-📧 Email: `tssuryakiran@gmail.com`
