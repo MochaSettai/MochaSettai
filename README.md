@@ -41,7 +41,7 @@
 
 ## 🎯 Goals for 2026
 
-- 🔧 Master **TypeScript** and **Express**
+- 🔧 Master **TypeScript**
 - 🧩 Contribute to **open-source projects** and collaborate with other developers
 
 ---
