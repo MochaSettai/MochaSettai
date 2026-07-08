@@ -1,30 +1,14 @@
 ## 👋 Hi there! I'm Surya Kiran
 
-🎓 I'm a third-year student pursuing a honors degree in BSc. Computer Science & Software Engineering. I've been learning software development for more than 5 years. I'm currently working as an SDE intern at IT Department of Maynooth University in Product Management.
+🎓 I'm a third-year student pursuing an honors degree in BSc. Computer Science & Software Engineering. I've been learning software development for more than 5 years. I'm currently working as an SDE intern in the IT Department of Maynooth University within Product Management.
 
----
+
 
 ## 💼 About Me
 
-🔹 The languages I use are **JavaScript**, **Java** and **Python**.
+I build and support large-scale microservice systems, with experience in server migrations, Flask-to-FastAPI transitions, API management, and SAML integrations. I have also worked across multiple teams in startup and enterprise environments, contributing to collaborative product and system development.
 
-🔹 The frontend frameworks I use are **React** and **Tailwind**.
 
-🔹 The backend frameworks I use are **Express**, **Node.js** and **Flask**.
-
-🔹 My skils are grounded in Java and JavaScript, mainly focused on web-apps but I'm someone who's open to learning and exploring more posibilities.
-
-🔹 I regularly build personal projects and post them on GitHub. These include api-tools, data-driven systems, and some fun projects.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- 💾 Building an AI-powered Applicant tracking system
-  
-- 💬 Building a real time Game Stats and Leaderboard service system for game servers (it's a team project).
-
----
 
 ## 🧠 Skills & Tools
 
@@ -37,14 +21,14 @@
 **Tools & Platforms**  
 `Git` | `GitHub` | `Docker` | `Linux` 
 
----
+
 
 ## 🎯 Goals for 2026
 
 - 🔧 Master **TypeScript**
 - 🧩 Contribute to **open-source projects** and collaborate with other developers
 
----
+
 
 ## 📫 Let's Connect
 
