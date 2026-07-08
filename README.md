@@ -29,12 +29,6 @@ I build and support large-scale microservice systems, with experience in server 
 - [IBM DevOps, Cloud, and Agile Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/G35U5PS5031A)
 
 
-## 🎯 Goals for 2026
-
-- 🔧 Master **TypeScript**
-- 🧩 Contribute to **open-source projects** and collaborate with other developers
-
-
 
 ## 📫 Let's Connect
 
